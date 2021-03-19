@@ -35,7 +35,7 @@ homepage | raiz
 ID | Identificação
 indent | Indentar/indentação
 link | Inserir/Criar link/link
-linked |
+linked | Link existente
 node | nódulo
 note | nota
 Obsidian | Obsidian (Always capitalized)
